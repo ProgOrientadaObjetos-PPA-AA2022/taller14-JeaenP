@@ -37,7 +37,7 @@ public class Principal {
                 String correo = sc.nextLine();
                 System.out.println("Ingrese el sueldo del trabajador:");
                 double sueldo = sc.nextDouble();
-                sc.nextLine();
+                //sc.nextLine();
                 System.out.println("Ingrese el mes del sueldo del trabajador:");
                 String mesSueldo= sc.nextLine();
                 Trabajador trabajador = new Trabajador(cedula, nombre, correo, sueldo, mesSueldo );

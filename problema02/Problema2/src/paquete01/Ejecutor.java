@@ -8,7 +8,7 @@ import Paquete02.Enlace;
 
 /**
  *
- * @author mateovalarezoojeda
+ * @author jpvp
  */
 public class Ejecutor {
     public static void main(String[] args) {

@@ -14,7 +14,7 @@ import paquete01.Estudiante;
 
 /**
  *
- * @author mateovalarezoojeda
+ * @author jpvp
  */
 public class Enlace {
 

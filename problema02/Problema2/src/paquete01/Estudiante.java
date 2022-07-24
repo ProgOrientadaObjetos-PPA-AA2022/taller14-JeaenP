@@ -6,7 +6,7 @@ package paquete01;
 
 /**
  *
- * @author mateovalarezoojeda
+ * @author jpvp
  */
 public class Estudiante {
 
